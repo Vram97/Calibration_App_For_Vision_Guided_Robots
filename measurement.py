@@ -1,7 +1,6 @@
 """ This is the code for a distance measurement app based on computer vision and user input 
 Author: Shivaram Srikanth
 Date: 02 - 19 - 2023
-Task: Fathom Radiant work test """
 
 ################## REQUIRED LIBRARIES #########################
 

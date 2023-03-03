@@ -23,7 +23,7 @@ To start the app, run the following startscript:
 ```
 The script is structured in the following format:
 ```
-‘python3 measurement.py -p <string Image-path> -s <float Scale-Factor> -t <string type("numpy","csv","tsv")> -c <int Space sepaerated RGB code>
+python3 measurement.py -p <string Image-path> -s <float Scale-Factor> -t <string type("numpy","csv","tsv")> -c <int Space sepaerated RGB code>
 
 ```
 ## Results

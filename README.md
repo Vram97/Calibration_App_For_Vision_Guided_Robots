@@ -17,9 +17,9 @@ The following libraries and softwares need to be installed to run the code:
 - 
 ## Run
 To start the app, run the following startscript:
-'''
+```
 ./measure.sh
 
-'''
+```
 
 ## Results

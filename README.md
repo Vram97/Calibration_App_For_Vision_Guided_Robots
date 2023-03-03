@@ -1,4 +1,4 @@
-# Calibration App for Vision Guided Robots
+# Calibration App for Vision Guided Robots #
 ![Main image](https://ros-planning.github.io/moveit_tutorials/_images/hand_eye_calibration_demo.jpg)
 
 ## Introduction
@@ -15,7 +15,9 @@ The following libraries and softwares need to be installed to run the code:
 - Math
 - CSV
 
-## Run
+## Instructions for Use
+
+### Run
 To start the app, run the following startscript:
 ```
 ./measure.sh
@@ -26,4 +28,13 @@ The script is structured in the following format:
 python3 measurement.py -p <string Image-path> -s <float Scale-Factor> -t <string type("numpy","csv","tsv")> -c <int Space sepaerated RGB code>
 
 ```
+### Measuring
+Press the Measure button to start measuring distances.
+  - Once in measure mode, select points on the displayed image using mouse
+    clicks. This highlights the hole closest to the user’s choice. On choosing the
+    second point, a line is drawn from start(Center of hole of start point) to goal
+    (Center of hole of goal point) with the length of the line specified.
+  - Any clicks beyond that over-write the second point.
+  - The Clear button clears all the data and takes the user out of measure mode.
+ 
 ## Results

@@ -39,3 +39,4 @@ Press the Measure button to start measuring distances.
   - The 'Generate' button saves all the points selected by the user in one session in the appropriate format.
  
 ## Results
+![Working GIF](https://github.com/Vram97/Calibration_App_For_Vision_Guided_Robots/blob/master/Peek%202023-03-05%2021-31.gif)

@@ -1,4 +1,4 @@
-# Calibration App for Vision Guided Robots #
+# Computer Vision based measuring app #
 ![Main image](https://ros-planning.github.io/moveit_tutorials/_images/hand_eye_calibration_demo.jpg)
 
 ## Introduction
